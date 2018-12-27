@@ -21,7 +21,9 @@ drwxr-xr-x 2 user group  327680 Jun 11 19:44 method4/
 ```
 Inside each directory there should a subclonal reconstruction file with the following naming convention:
 
+```
 {samplename}_subclonal_structure.txt
+```
 The `weme_demo` folder includes an example of this layout.
 
 # Running WeMe
