@@ -26,15 +26,15 @@ Inside each directory there should a subclonal reconstruction file with the foll
 
 Running WeMe example
 
->source("weme.R")
+```source("weme.R")```
 Identify all subclonal structure files and the methods
->sids = find_sids()
+```sids = find_sids()```
 Generate consensus structure files for all samples found
->genconsensus(sids,rounddown=FALSE)
+```genconsensus(sids,rounddown=FALSE)```
 The above call will generate a consensus subclonal structure file and a plot comparing the independent structures and the consensus structure.
 Running the demo should take less than 1 minute on a regular computer.
 Example output is provided in the root of the weme_demo folder.
 
 In order to ensure consensus results are consistent with an independently determined purity levels, WeMe can optionally correct the consensus solution. 
 Correct the top cluster to match input purity.  Can be run independently.  THe purity/ploidy file must contain columns samplename and purity.
->correct_purity("purity.demo.txt")
+```correct_purity("purity.demo.txt")```
