@@ -4,11 +4,11 @@ WeMe is a method to find a consensus subclonal structure from multiple subclonal
 For a description of the method, see Supplement section XX in the PCAWG Heterogeneity paper (available on BioArxiv at:)
 WeMe requires R and the following libraries: doMC,reshape2, ggplot2,and RColorBrewer.
 WeMe has been tested on OS X Version 10.14 with the following package versions:
-R: version 3.5.0
-doMC: version 1.3.5
-reshape2: version 1.4.3
-ggplot2: version 3.1.0
-RColorBrewer: version 1.1-2
+*R: version 3.5.0
+*doMC: version 1.3.5
+*reshape2: version 1.4.3
+*ggplot2: version 3.1.0
+*RColorBrewer: version 1.1-2
 
 As input WeMe requires multiple reconstructions in the PCAWG-11 format (reference).   
 WeMe does not require any installation.
