@@ -1,0 +1,3 @@
+samplename	purity	ploidy
+sim0nqeot	0.915982810311019	2
+sim0nu1d4	0.437458791552577	2.754
