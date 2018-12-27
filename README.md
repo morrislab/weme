@@ -1,5 +1,4 @@
-# weme
-Weighted Median subclonal consensus method
+# WeMe
 WeMe is a method to find a consensus subclonal structure from multiple subclonal structures (typically from different methdos).  
 For a description of the method, see Supplement section XX in the PCAWG Heterogeneity paper (available on BioArxiv at:)
 WeMe requires R and the following libraries: doMC,reshape2, ggplot2,and RColorBrewer.
