@@ -23,7 +23,7 @@ Inside each directory there should a subclonal reconstruction file with the foll
 
 {samplename}_subclonal_structure.txt
 
-# Running WeMe example
+# Running WeMe
 
 ```
 source("weme.R")
